@@ -1,6 +1,6 @@
 
-## Hi there i'm Franciane Aprigip From Brazil  👋
-### Studying Front End, trying to stay focused
+## Hi there i'm Franciane Aprigio From Brazil  👋
+### Studying Software Engineering focusing on Front End
 
 <div align="center">
   <a href="https://github.com/FranAprigio">
