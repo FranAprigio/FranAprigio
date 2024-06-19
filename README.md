@@ -34,8 +34,10 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/FranAprigio"><img alt="Fran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=FranAprigio&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="210px" width="48.5%" /></a>
-  <a href="https://github.com/FranAprigio"><img alt="Fran's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FranAprigio&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="185px" width="50.5%"/></a>
+<p align="center"> 
+    <a href="https://github.com/FranAprigio">
+    <img alt="Fran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=FranAprigio&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="173px"  />
+    <img alt="FranAprigio Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranAprigio&layout=compact&langs_count=6&theme=github_dark&border_color=7F3FBF&title_color=F85D7F" height="173px"/>
+    </a>
   <br/>
-</a>
+</p>
